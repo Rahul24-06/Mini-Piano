@@ -1,1 +1,2 @@
 # Mini-Piano
+You should now be able to tap on the keys and hear the corresponding notes played through the buzzer. If the note isn't accurate, you can adjust the note value in the Arduino sketch to set what value that the pitch is achieved.You can also change the scale that is played by uncommenting one of the few scales included, or make your own scale! If you make your own piano, please comment and show us some pictures and videos.
