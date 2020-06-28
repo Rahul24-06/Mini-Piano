@@ -58,4 +58,3 @@ And thats it! You should now be able to tap on the keys and hear the correspondi
 *Happy to have you subscribed: https://www.youtube.com/c/rahulkhanna24june?sub_confirmation=1*
 
 **Thanks for reading!**
-
